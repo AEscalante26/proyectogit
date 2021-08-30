@@ -1,0 +1,2 @@
+Creo una primera línea en archivo_b.txt
+Creo una segunda línea en archivo_b.txt
